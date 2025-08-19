@@ -37,3 +37,16 @@ The dashboard tracks the following procurement SLA metrics:
 
 ## 🖼 Dashboard Preview
 -<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/Overview.png">Overview</a>
+- <a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/Appendix.png">Appendix</a>
+-	<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/BD%2001.1.png" >BD_01.1</a>
+-	<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/BD%2001.2.png" >BD_01.2</a>
+-	<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/BD%2002.png" >BD_02</a>
+-	<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/BD%2003.1.png" >BD_03.1</a>
+-	<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/BD%2003.2.png" >BD_03.2</a>
+-	<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/BD%2005.png" >BD_05</a>
+-	<a href = "https://github.com/amitabhkarn/Procurement-Performance-Dashboard/blob/main/BD%2006.png" >BD_06</a>
+
+
+
+
+
